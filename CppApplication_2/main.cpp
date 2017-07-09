@@ -19,7 +19,7 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout<<"kk-aa"<<endl;
+    cout<<"kk-aa-bb"<<endl;
     return 0;
 }
 
